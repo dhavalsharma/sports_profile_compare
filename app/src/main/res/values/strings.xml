@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compare</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="up_name">Roger Federer</string>
+    <string name="roger">Roger Federer</string>
+    <string name="rafael">Rafael Nadal</string>
+</resources>
